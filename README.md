@@ -68,7 +68,7 @@ I develop websites for personal or enterprise use.
     <tr>
       <td colspan="2">
         <!-- Line graph for contribution history instead of bar graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=marionjemtai&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=marionjemutai&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
       </td>
     </tr>
   </table>
