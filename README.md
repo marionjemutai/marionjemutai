@@ -28,13 +28,13 @@ I develop websites for personal or enterprise use.
 
 ---
 
-## 📊 GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marionjemutai&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marionjemutai)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionjemutai&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marionjemutai)
 
 ---
 
