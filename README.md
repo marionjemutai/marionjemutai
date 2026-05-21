@@ -1,11 +1,6 @@
 ﻿# marionjemutai
 # Hi 👋 I'm Marion Jemutai
-
-💻 Aspiring Full-Stack Software Developer  
-📚 Learning C#, JavaScript, HTML, CSS, and Git & GitHub  
-🎯 Goal: Build scalable real-world applications and become a full-stack developer  
-
----
+<hr>
 
 ## 🚀 About Me
 Hello 👋
