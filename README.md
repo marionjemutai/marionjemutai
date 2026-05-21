@@ -44,7 +44,7 @@ I develop websites for personal or enterprise use.
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
    <img alt="GitHub"  src="https://img.shields.io/badge/github-121213?style=flat-square&logo=github&logoColor=white">
 </p>
- <!-- 
+ 
 ## GitHub Analytics
 <div align="center">
   <table>
