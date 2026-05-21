@@ -1,12 +1,10 @@
 
 👋 I'm Marion Jemutai
 
-Hello 👋
+Hello 👋<br>
 I'm a software engineer.
 I develop websites for personal or enterprise use.
-- 🔭 I’m currently working on C# projects
-- 🌱 I’m currently learning JavaScript & backend development
-- 💡 I love building systems that solve real problems
+
 - 📫 Reach me at: **marionjemutai7@gmail.com**
 
 ---
