@@ -1,8 +1,6 @@
 ﻿# marionjemutai
 # Hi 👋 I'm Marion Jemutai
-<hr>
 
-## 🚀 About Me
 Hello 👋
 I'm a software engineer.
 I develop websites for personal or enterprise use.
