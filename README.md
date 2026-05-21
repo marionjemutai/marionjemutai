@@ -58,12 +58,13 @@ I develop websites for personal or enterprise use.
     </tr>
     <tr>
       <td colspan="2">
-        
+              i
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=marionjemutai&theme=react-dark&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" alt="Contribution Graph"/>
       </td>
     </tr>
+
   </table>
-</div> -->
+</div>
 
 ---
 
