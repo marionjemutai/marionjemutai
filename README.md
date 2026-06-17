@@ -48,14 +48,7 @@ I develop websites for personal or enterprise use.
 ## GitHub Analytics
 <div align="center">
   <table>
-    <tr>
-      <td align="center">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com/?user=marionjemutai&theme=dark&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&currStreakLabel=00F7FF" 
-          alt="GitHub Streak"
-        />
-      </td>
-    </tr>
+
     <tr>
       <td align="center">
         <img 
